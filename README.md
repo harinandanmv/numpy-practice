@@ -72,4 +72,4 @@ Feel free to **fork this repo**, add new examples, or improve the existing ones 
 
 ---
 
-✨ Happy Learning with NumPy!
+> ✨ Happy Learning with NumPy!
