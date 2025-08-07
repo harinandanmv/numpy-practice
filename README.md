@@ -72,10 +72,4 @@ Feel free to **fork this repo**, add new examples, or improve the existing ones 
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 ✨ Happy Learning with NumPy!
