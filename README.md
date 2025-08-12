@@ -41,7 +41,7 @@ This repository contains **hands-on practice tasks** to help you get started wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/harinandanmv/numpy-practice.git
    cd your-repo-name
    ```
 
