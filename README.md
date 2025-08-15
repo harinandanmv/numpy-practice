@@ -42,7 +42,7 @@ This repository contains **hands-on practice tasks** to help you get started wit
 1. **Clone the repository**
    ```bash
    git clone https://github.com/harinandanmv/numpy-practice.git
-   cd your-repo-name
+   cd numpy-practice
    ```
 
 2. **Install dependencies**
@@ -52,7 +52,7 @@ This repository contains **hands-on practice tasks** to help you get started wit
 
 3. **Run the Python script**
    ```bash
-   python task_1.py
+   python task_1.ipynb
    ```
 
 ---
